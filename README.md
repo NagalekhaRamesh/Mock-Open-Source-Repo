@@ -65,7 +65,7 @@ We welcome contributions to make this project better!
    ```  
 
 ### **3. Add/Modify Code**  
-- Follow project coding standards (see [Coding Guidelines](#coding-guidelines)).  
+- Follow project coding standards (see Coding Guidelines - To be added).  
 - Write or update automated test cases for your changes.  
 
 ### **4. Run Tests**  
@@ -92,7 +92,7 @@ We welcome contributions to make this project better!
 ## 🛠 **Branch Protection Rules**  
 
 The `main` branch is protected to ensure the highest quality of contributions. To merge your changes:  
-- Your PR must pass all automated tests (see [CI/CD](#ci/cd-pipeline)).  
+- Your PR must pass all automated tests.
 - At least one maintainer must approve the PR after code review.  
 
 ---
